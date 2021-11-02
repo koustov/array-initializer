@@ -1,6 +1,6 @@
 {
 	"name": "array-initializer",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "A simple and small package to initialize your array with varity of differnt elements",
 	"main": "index.js",
 	"scripts": {

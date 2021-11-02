@@ -108,7 +108,12 @@ export const randomString = (count, exceptions) => {
 	const cCount = count || RANDOM_STRING.length;
 	const res = [];
 	for (var i = 1; i < cCount; i++) {
-		res.push(RANDOM_STRING[i]);
+		const str = RANDOM_STRING[i];
+		if (exceptions.indexOf(str) > -1) {
+			// ignore;
+		} else {
+			res.push(RANDOM_STRING[i]);
+		}
 	}
 
 	return res;

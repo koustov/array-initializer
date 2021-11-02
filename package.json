@@ -1,0 +1,19 @@
+{
+  "name": "array-initializer",
+  "version": "0.0.1",
+  "description": "A simple and small package to initialize your array with varity of differnt elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koustov/array-initializer.git"
+  },
+  "author": "koustov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koustov/array-initializer/issues"
+  },
+  "homepage": "https://github.com/koustov/array-initializer#readme"
+}

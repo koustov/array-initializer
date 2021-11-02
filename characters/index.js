@@ -1,4 +1,4 @@
-const randomString = [
+const RANDOM_STRING = [
 	'Lorem',
 	'ipsum',
 	'dolor',
@@ -105,10 +105,10 @@ export const printableChars = (exceptions) => {
 };
 
 export const randomString = (count, exceptions) => {
-	const cCount = count || randomString.length;
+	const cCount = count || RANDOM_STRING.length;
 	const res = [];
 	for (var i = 1; i < cCount; i++) {
-		res.push(randomString[i]);
+		res.push(RANDOM_STRING[i]);
 	}
 
 	return res;

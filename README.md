@@ -26,7 +26,6 @@ This is a **fully flexible** array initializer based on [`Node`](https://nodejs.
 
 - [Features](#features)
 - [🤲 Want to Motivate?](#-want-to-motivate)
-- [Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)](#many-thanks-to-all-the-stargazers-who-has-supported-this-project-with-stars)
 - [When do you need it](#when-do-you-need-it)
   - [Install 🐙](#install-)
 - [Usage](#usage)
@@ -47,9 +46,9 @@ This is a **fully flexible** array initializer based on [`Node`](https://nodejs.
 
 Who doesn't need motivation? Please give the project a star(⭐) and/or share it in your dev circle.
 
-## Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
+<!-- ## Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
 
-[![Stargazers repo roster for @koustov/array-initializer](https://reporoster.com/stars/koustov/array-initializer)](https://github.com/koustov/array-initializer/stargazers)
+[![Stargazers repo roster for @koustov/array-initializer](https://reporoster.com/stars/koustov/array-initializer)](https://github.com/koustov/array-initializer/stargazers) -->
 
 ## When do you need it
 
